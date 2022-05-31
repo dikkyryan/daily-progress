@@ -29,8 +29,6 @@ Organizations are always seeking to stay competitive in an ever-changing commerc
 Quickly turn data into insights and empower employees with the information and expertise they need to get their work done with Workplace Analytics.
 
 ### Manage all your endpoints
-<br>
-<br>
 Deploy a seamless, end-to-end management solution and gain visibility across all connected devices with Microsoft Endpoint Manager.
 
 ### Protect your business
