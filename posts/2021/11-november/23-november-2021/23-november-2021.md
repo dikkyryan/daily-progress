@@ -1,7 +1,6 @@
 #### What is Microsoft 365 ? 🖥💙
 
 - [Overview](#overview)
-- [<br>]
 
 Microsoft 365 empowers users with the latest innovation across new and familiar productivity experiences like Teams, Word, Excel, PowerPoint, Outlook, and Windows. Unlike other productivity services, Microsoft 365 learns from users and collects valuable insights through the Microsoft Graph to deliver enhanced experiences that continually get better over time and keep users protected.
 
