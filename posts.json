@@ -1,0 +1,21 @@
+[
+    {
+        "postno": 1,
+        "title": "HTB - Blue :large_blue_diamond: :space_invader:",
+        "date": "2021-08-04",
+        "url": "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/posts/2021/08-august/04-august-2021/04-august-2021.md",
+        "tags": [
+            "windows",
+            "hackthebox",
+            "oscp",
+            "smb",
+            "easy",
+            "blue",
+            "eternal blue",
+            "ransomware",
+            "exploit",
+            "withoutmetasploit"
+        ],
+        "description": "The path for the user/system owning is clear as blue! One of the fatest machines that players got 'first blood' in a couple of minutes. Get a detailed walkthrough of Blue machine in Hack The Box, which is also a OSCP like windows machine."
+    }
+]

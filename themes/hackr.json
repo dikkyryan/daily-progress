@@ -1,0 +1,26 @@
+{
+    "$theme": "Hackr Bleed",
+
+    "--accent-primary": "#9fef00",
+
+    "--text-primary": "#fff",
+    "--text-secondary": "#a4b1cd",
+    "--home-heading": "#fff",
+    "--heading-primary": "#fff",
+    "--heading-secondary": "#a4b1cd",
+    "--animation-text": "#a4b1cd",
+    "--badge-text": "#141d2b",
+    "--tags": "#a4b1cd",
+    "--tag-text": "#a4b1cd",
+    "--tagcount-bg": "#ffffff17",
+    "--tagbg-hover": "#334c2126",
+    "--tagbg-opaq": "#19242a",
+
+    "--background": "#141d2b",
+    "--header-bg": "#111927",
+    "--subheader-bg": "#111927",
+    "--border": "#3d4245",
+    "--icons-social": "#f5ffe1",
+    "--drop-shadow": "#2222224f",
+    "--orb-hue": 90
+}
