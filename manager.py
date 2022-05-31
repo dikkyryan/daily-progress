@@ -24,7 +24,7 @@ def createTimeline(year_dict):
     # current working directory for the task
     working_dir = "./cron@daily"
     # github url to fetch the timeline markdown file
-    github_url = "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/cron@daily/"
+    github_url = "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/"
 
     
     year = date.split('-')[0]
@@ -103,7 +103,7 @@ def createPost(year_dict):
     # current working directory for the task
     working_dir = "./posts"
     # github url to fetch the posts file
-    github_url = "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/posts/"
+    github_url = "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/"
 
     year = post_date.split('-')[0]
     month = post_date.split('-')[1]
@@ -176,7 +176,7 @@ def createTheme():
     
     themelist_file = "./themelist.json"
     working_dir = "./themes"
-    github_url = "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/themes/"
+    github_url = "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/themes/"
     
     theme_file = f"{theme_name}.json"
     theme_url = f"{github_url}{theme_file}"
