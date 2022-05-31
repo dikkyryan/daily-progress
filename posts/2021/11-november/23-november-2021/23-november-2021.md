@@ -14,28 +14,18 @@ Microsoft 365 provides powerful capabilities through AI powered tools to unleash
  <br>
 
 ### Enable teamwork and simplify workflow
-<br>
-<br>
 Collaborate, meet, call, and connect business applications all in one place with Microsoft Teams.
 
 ### Stay productive on the go
-<br>
-<br>
 Easily transition from computer to mobile devices with innovative and powerful mobile apps.
 
 ### Get more done with AI-enabled tools
-<br>
-<br>
 Fuel creativity, discover new insights, elevate search and get personalized assistance with built-in intelligence features.
 
 ### Organizational productivity
-<br>
-<br>
 Organizations are always seeking to stay competitive in an ever-changing commercial landscape. They want to drive top-line growth, cut costs and better serve their customers. They want to unlock the potential of their employees, drive process automation, capture the collective knowledge of their organization, and avoid potential security, compliance or privacy risks that may derail progress.
 
 ### Harness organizational knowledge
-<br>
-<br>
 Quickly turn data into insights and empower employees with the information and expertise they need to get their work done with Workplace Analytics.
 
 ### Manage all your endpoints
@@ -44,32 +34,20 @@ Quickly turn data into insights and empower employees with the information and e
 Deploy a seamless, end-to-end management solution and gain visibility across all connected devices with Microsoft Endpoint Manager.
 
 ### Protect your business
-<br>
-<br>
 Elevate and modernize your security, manage risk, and meet compliance standards on Microsoft's trusted cloud.
 
 #### Explore the Microsoft 365 subscription options
-<br>
-<br>
 Every organization has unique requirements, so Microsoft offers a variety of subscriptions and plans to accommodate your organization’s needs. In this unit, we’ll summarize these subscriptions.
 
 ### Microsoft 365 Enterprise
-<br>
-<br>
 Microsoft 365 Enterprise provides enterprise-class services to organizations that want a productivity solution that includes robust threat protection, security, compliance, and analytics features.
 There are three available plans for Microsoft 365 Enterprise, letting you further refine what's included in your implementation - E3, E5, and F3 (formerly F1). E5 includes all of the same features as E3 plus the latest advanced threat protection, security, and collaboration tools. F3 is designed for Firstline Workers through purpose-built tools and resources that allow them to do their best work
 
 ### Microsoft 365 for business
-<br>
-<br>
 Microsoft 365 for business is designed for small- and medium-sized organizations. Like Microsoft 365 Enterprise, Microsoft 365 for business offers the full set of Office 365 productivity tools and includes security and device management features. It doesn’t include some of the more advanced information protection, compliance, or analytics tools available to enterprise subscribers. It’s designed for organizations that need up to 300 licenses; if your organization is larger than that, you’ll have to subscribe to a Microsoft 365 Enterprise plan instead.
 
 ### Microsoft 365 Education
-<br>
-<br>
 Microsoft 365 Education is available for educational organizations and empowers educators to unlock creativity, promote teamwork, and provide a simple and safe experience in a single, affordable solution built for education. Academic licenses can be tailored to fit any institution’s needs, including productivity and security solutions for faculty, staff, and students.
 
 ### Microsoft 365 Home
-<br>
-<br>
 Microsoft 365 Home exists to bring the same great productivity benefits into your personal and family life. Microsoft 365 Home comes in two plans: Microsoft 365 Family and Microsoft 365 Personal. Office Home and Student 2019 are available as a one-time purchase, but do not include any of the cloud benefits of Microsoft 365. Compare plans to see what plan works best for you.
