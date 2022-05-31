@@ -1,14 +1,14 @@
 [
     {
         "theme": "Zen White",
-        "url": "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/themes/light.json"
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/themes/light.json"
     },
     {
         "theme": "Dark Knight",
-        "url": "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/themes/dark.json"
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/themes/dark.json"
     },
     {
         "theme": "Hackr Bleed",
-        "url": "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/themes/hackr.json"
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/themes/hackr.json"
     }
 ]
