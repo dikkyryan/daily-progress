@@ -1,9 +1,19 @@
 [
     {
+        "postno": 2,
+        "title": "What is Microsoft 365 ?",
+        "date": "2021-11-23",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/11-november/23-november-2021/23-november-2021.md",
+        "tags": [
+            "#microsoft #365 #saas #education #edu"
+        ],
+        "description": "Microsoft 365 is designed to help you achieve more with innovative Office apps, intelligent cloud services, and world-class security."
+    },
+    {
         "postno": 1,
-        "title": "HTB -  :large_blue_diamond: :space_invader:",
+        "title": "HTB - blue :large_blue_diamond: :space_invader:",
         "date": "2021-08-04",
-        "url": "https://raw.githubusercontent.com/wannabemrrobot/daily-progress/main/posts/2021/08-august/04-august-2021/04-august-2021.md",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/08-august/04-august-2021/04-august-2021.md",
         "tags": [
             "windows",
             "hackthebox",

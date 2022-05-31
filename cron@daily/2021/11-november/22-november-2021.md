@@ -1,4 +1,4 @@
-### Try Hack Me - Jr. Penetration Tester Path
+### Try Hack Me - Jr. Penetration Tester Path New
 Finished another room on `Walking an application`, where already known browser tools like inspector, network, debugger is learnt in depth.
 
 #### Reference:
