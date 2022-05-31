@@ -1,4 +1,4 @@
-#### What is Microsoft 365 ? 🖥💙
+#### What is Microsoft 365 ?
 
 - [Overview](#overview)
 
@@ -37,7 +37,6 @@ Organizations are always seeking to stay competitive in an ever-changing commerc
 <br>
 Quickly turn data into insights and empower employees with the information and expertise they need to get their work done with Workplace Analytics.
 <br>
- ---
 
 ### Manage all your endpoints
 <br>
@@ -70,9 +69,7 @@ Microsoft 365 for business is designed for small- and medium-sized organizations
 <br>
 Microsoft 365 Education is available for educational organizations and empowers educators to unlock creativity, promote teamwork, and provide a simple and safe experience in a single, affordable solution built for education. Academic licenses can be tailored to fit any institution’s needs, including productivity and security solutions for faculty, staff, and students.
 <br>
----
 
 ### Microsoft 365 Home
 <br>
 Microsoft 365 Home exists to bring the same great productivity benefits into your personal and family life. Microsoft 365 Home comes in two plans: Microsoft 365 Family and Microsoft 365 Personal. Office Home and Student 2019 are available as a one-time purchase, but do not include any of the cloud benefits of Microsoft 365. Compare plans to see what plan works best for you.
----
