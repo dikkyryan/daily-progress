@@ -28,13 +28,13 @@ Azure Firewall is a cloud-based firewall service. In most configurations, Azure 
 
 All traffic to and from the internet is denied by default. Traffic is only allowed if it passes various tests, such as the configured firewall rules.
 
-![firewallrules](https://github.com/dikkyryan/daily-progress/main/posts/2021/10-october/13-october-2021/1.png)
+![firewallrules](https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png)
 <br>
 
 ### What is Azure Firewall Premium?
 Azure Firewall Premium provides advanced threat protection that meets the needs of highly sensitive and regulated environments, such as the payment and healthcare industries.
 
-![firewallrules](https://github.com/dikkyryan/daily-progress/main/posts/2021/10-october/13-october-2021/1.png)
+![firewall](https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png)
 <br>
 
 ### Overview of Azure Firewall Manager
