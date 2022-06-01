@@ -1,7 +1,49 @@
 [
     {
+        "date": "2021-12-13",
+        "title": "Microsoft Certified: Security Operations Analyst Associate",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/12-december/13-december-2021.md"
+    },
+    {
+        "date": "2021-05-11",
+        "title": "Microsoft Certified: Dynamics 365 Fundamentals",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/05-may/11-may-2021.md"
+    },
+    {
+        "date": "2021-05-22",
+        "title": "Microsoft Certified: Power Platform Fundamentals",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/05-may/22-may-2021.md"
+    },
+    {
+        "date": "2021-05-21",
+        "title": "Microsoft Certified: Azure Administrator Associate",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/05-may/21-may-2021.md"
+    },
+    {
+        "date": "2021-04-21",
+        "title": "Microsoft Certified: Azure AI Fundamentals",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/04-april/21-april-2021.md"
+    },
+    {
+        "date": "2021-04-01",
+        "title": "Microsoft Certified: Azure Fundamentals",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/04-april/01-april-2021.md"
+    },
+    {
+        "date": "2021-01-12",
+        "title": "Microsoft Certified Trainer 2021-2022",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/01-january/12-january-2021.md"
+    },
+    {
         "date": "2022-01-04",
-        "title": "Microsoft Certified Trainer",
+        "title": "Microsoft Certified Trainer 2022-2023",
         "milestone": false,
         "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2022/01-january/04-january-2022.md"
     },
@@ -91,7 +133,7 @@
     },
     {
         "date": "2021-11-01",
-        "title": "Release V1.3 - Longest Streak, Milestone tab",
+        "title": "Nutanix Certified Professional 5 - Multicloud Infrastructure",
         "milestone": false,
         "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2021/11-november/01-november-2021.md"
     },
