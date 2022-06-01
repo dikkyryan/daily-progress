@@ -30,11 +30,13 @@ All traffic to and from the internet is denied by default. Traffic is only allow
 
 <img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png?raw=true" />
 <br>
+<br>
 
 ### What is Azure Firewall Premium?
 Azure Firewall Premium provides advanced threat protection that meets the needs of highly sensitive and regulated environments, such as the payment and healthcare industries.
 
-![firewall](https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png)
+<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png?raw=true" />
+<br>
 <br>
 
 ### Overview of Azure Firewall Manager
