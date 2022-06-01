@@ -1,5 +1,24 @@
 [
     {
+        "postno": 4,
+        "title": "How to become an MCT",
+        "date": "2022-02-01",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/02-february/01-february-2022/01-february-2022.md",
+        "tags": [
+            "microsoft ",
+            " mct ",
+            " certificate ",
+            " certified ",
+            " microsoftcertified ",
+            " trainer ",
+            " cloud ",
+            " security ",
+            "mctprogram ",
+            " azure"
+        ],
+        "description": "Microsoft Certified Trainers are professionals who instruct other professionals who want to become a Microsoft Certified Professional (MCP). They are the only authorized individuals to provide official training for Microsoft Certification exams."
+    },
+    {
         "postno": 3,
         "title": "Introduction to Azure Firewall :fire:",
         "date": "2021-10-13",
