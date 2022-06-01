@@ -20,6 +20,6 @@ Azure Route Server simplifies configuration, management, and deployment of your 
 
 - You can peer multiple instances of your NVA with Azure Route Server. You can configure the BGP attributes in your NVA and, depending on your design (e.g., active-active for performance or active-passive for resiliency), let Azure Route Server know which NVA instance is active or which one is passive.
 
-- The interface between NVA and Azure Route Server is based on a common standard protocol. As long as your NVA supports BGP, you can peer it with Azure Route Server. For more information, see[Route Server supported routing protocols](https://docs.microsoft.com/en-us/azure/route-server/route-server-faq#protocol)
+- The interface between NVA and Azure Route Server is based on a common standard protocol. As long as your NVA supports BGP, you can peer it with Azure Route Server. For more information, see [Route Server supported routing protocols](https://docs.microsoft.com/en-us/azure/route-server/route-server-faq#protocol)
 
 -You can deploy Azure Route Server in any of your new or existing virtual network.
