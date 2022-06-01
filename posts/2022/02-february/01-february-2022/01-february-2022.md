@@ -6,7 +6,7 @@ Many of Microsoft’s software and technologies are technically complex, and pro
 
 To make such training generally available, Microsoft has developed the Microsoft Certified Trainer (MCT) Program which grants membership to professional trainers and learning consultants who demonstrate and maintain technical and instructional expertise on Microsoft technologies and who have complied with all requirements.
 <br>
-<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2022/02-february/23-february-2022/1.jpg?raw=true" />
+<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2022/02-february/01-february-2022/1.jpg?raw=true" />
 <br>
 <br>
 
@@ -15,7 +15,7 @@ A Microsoft Certified Trainer is a professional trainer, who has been certified 
 
 It is great to be a part of this community for another year and I am looking forward to meeting other MCTs.
 <br>
-<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2022/02-february/23-february-2022/2.jpg?raw=true" />
+<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2022/02-february/01-february-2022/2.jpg?raw=true" />
 <br>
 <br>
 I appreciate all the efforts that are being put into continuing to develop such great content for the official Microsoft MOCs.
