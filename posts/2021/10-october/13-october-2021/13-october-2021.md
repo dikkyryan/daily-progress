@@ -34,7 +34,7 @@ All traffic to and from the internet is denied by default. Traffic is only allow
 ### What is Azure Firewall Premium?
 Azure Firewall Premium provides advanced threat protection that meets the needs of highly sensitive and regulated environments, such as the payment and healthcare industries.
 
-![firewallrules](https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png)
+![firewall](https://github.com/dikkyryan/daily-progress/blob/main/posts/2021/10-october/13-october-2021/1.png)
 <br>
 
 ### Overview of Azure Firewall Manager
@@ -135,4 +135,3 @@ Does your business have an e-commerce component, or does it process online credi
 	- Install and maintain a firewall configuration to protect cardholder data.
 
 The PCI DSS specifies that you need to set up a firewall configuration that restricts all inbound and outbound traffic from untrusted networks and hosts. The firewall must also deny all other traffic except for the protocols needed to process payment cards.
-<br>
