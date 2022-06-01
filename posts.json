@@ -1,5 +1,15 @@
 [
     {
+        "postno": 3,
+        "title": "Introduction to Azure Firewall :fire:",
+        "date": "2021-10-13",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/10-october/13-october-2021/13-october-2021.md",
+        "tags": [
+            "firewall azure microsoft sc microsoftlearn cloud security cve premium ip error pci dds network "
+        ],
+        "description": "Azure Firewall is a cloud-native and intelligent network firewall security service that provides the best of breed threat protection for your cloud workloads running in Azure."
+    },
+    {
         "postno": 2,
         "title": "What is Microsoft 365 ?",
         "date": "2021-11-23",
