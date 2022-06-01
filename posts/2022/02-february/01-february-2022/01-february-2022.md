@@ -27,6 +27,7 @@ The Microsoft Certified Trainer program is an annual membership program. You mus
 If you are interested in becoming an MCT, please review the MCT Program Guide and the MCT Program Agreement below to understand the terms of membership.
 
 [- MCT enrollment and renewal guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2Mf75)
+<br>
 [- MCT program guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XZuQ)
 
 The MCT program is for educators around the world who actively deliver training on Microsoft technologies. If you possess a qualifying certification and are passionate about delivering training on Microsoft technologies, I highly encourage you to consider applying.
