@@ -1,5 +1,21 @@
 [
     {
+        "postno": 6,
+        "title": "Connect Azure assets to Microsoft Defender for Cloud",
+        "date": "2022-02-24",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/02-february/24-february-2022/24-february-2022.md",
+        "tags": [
+            "microsoft ",
+            " microsoftlearn ",
+            " defender ",
+            " cloud ",
+            " azure ",
+            " cloudazure ",
+            " learn"
+        ],
+        "description": "Resource protection in Microsoft Defender for Cloud can be automatically configured with autoprovisioning or may be manually deployed."
+    },
+    {
         "postno": 5,
         "title": "What is Azure Route Server?",
         "date": "2021-12-28",
