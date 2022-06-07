@@ -70,7 +70,7 @@ Asset inventory utilizes Azure Resource Graph (ARG), an Azure service that provi
 	- To use the Security findings contain filter, enter free text from the ID, security check, or CVE name of a vulnerability finding to filter to the affected resources:
 
 <br>
-<img src="https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/02-february/24-february-2022/1.png" />
+<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2022/02-february/24-february-2022/2.png?raw=true" />
 <br>
 <br>
 
@@ -94,7 +94,7 @@ Data is collected using:
 
 	- Security extensions, such as the Azure Policy Add-on for Kubernetes, which can also provide data to Security Center regarding specialized resource types.
 <br>
-<img src="https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/02-february/24-february-2022/1.png" />
+<img src="https://github.com/dikkyryan/daily-progress/blob/main/posts/2022/02-february/24-february-2022/2.png?raw=true" />
 <br>
 <br>
 
