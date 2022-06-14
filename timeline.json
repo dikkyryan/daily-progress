@@ -1,5 +1,11 @@
 [
     {
+        "date": "2022-03-14",
+        "title": "Fortinet NSE 1",
+        "milestone": true,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2022/03-march/14-march-2022.md"
+    },
+    {
         "date": "2021-12-13",
         "title": "Microsoft Certified: Security Operations Analyst Associate",
         "milestone": false,
