@@ -1,5 +1,20 @@
 [
     {
+        "postno": 8,
+        "title": "Linux On Azure",
+        "date": "2022-03-16",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/16-march-2022/16-march-2022.md",
+        "tags": [
+            "linux ",
+            " microsoft ",
+            " azure ",
+            " cloud ",
+            " cloudcomputing ",
+            " server"
+        ],
+        "description": "This comprehensive learning path reviews deployment and management of Linux on Azure. Learn about cloud computing concepts, Linux IaaS and PaaS solutions and benefits and Azure cloud services. Discover how to migrate and extend your Linux-based workloads on Azure with improved scalability, security, and privacy."
+    },
+    {
         "postno": 7,
         "title": "Apa itu Azure Active Directory?",
         "date": "2022-03-15",
