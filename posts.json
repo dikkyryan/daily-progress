@@ -1,5 +1,20 @@
 [
     {
+        "postno": 11,
+        "title": "Azure VPN Gateway fundamentals",
+        "date": "2022-03-22",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/22-march-2022/22-march-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " vpn ",
+            " gateway ",
+            " server ",
+            " network"
+        ],
+        "description": "VPNs use an encrypted tunnel within another network. They're typically deployed to connect two or more trusted private networks to one another over an untrusted network (typically the public internet). Traffic is encrypted while traveling over the untrusted network to prevent eavesdropping or other attacks."
+    },
+    {
         "postno": 10,
         "title": "Azure Virtual Network settings",
         "date": "2022-03-19",
