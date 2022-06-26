@@ -1,5 +1,21 @@
 [
     {
+        "postno": 7,
+        "title": "Apa itu Azure Active Directory?",
+        "date": "2022-03-15",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/15-march-2022/15-march-2022.md",
+        "tags": [
+            "azure ",
+            " microsoft ",
+            " directory ",
+            " learn ",
+            " cloud ",
+            " cloudazure ",
+            " server"
+        ],
+        "description": "Azure AD, adalah sistem di Microsoft Azure yang memungkinkan manajemen identitas untuk mengonfigurasi aksesibilitas pengguna dan grup ke layanan dan sumber daya."
+    },
+    {
         "postno": 6,
         "title": "Connect Azure assets to Microsoft Defender for Cloud",
         "date": "2022-02-24",
