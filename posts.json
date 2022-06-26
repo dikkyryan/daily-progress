@@ -1,5 +1,36 @@
 [
     {
+        "postno": 10,
+        "title": "Azure Virtual Network settings",
+        "date": "2022-03-19",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/19-march-2022/19-march-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " networking ",
+            " router ",
+            " setting ",
+            " server ",
+            " service"
+        ],
+        "description": "You can create and configure Azure virtual networks from the Azure portal, Azure PowerShell, Azure CLI, Azure Cloud Shell or an ARM template."
+    },
+    {
+        "postno": 9,
+        "title": "Explore Azure networking services",
+        "date": "2022-03-17",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/17-march-2022/17-march-2022.md",
+        "tags": [
+            "microsoft ",
+            " introduction ",
+            " azure ",
+            " networking ",
+            " cloud ",
+            " service"
+        ],
+        "description": "Suppose your company, Tailwind Traders, has migrated some applications to the cloud and is architecting new ones. The servers that host Tailwind Traders' customer and product data are based in Silicon Valley. Your company also has several branch offices located in different geographic regions. As part of your migration strategy, your company needs to determine the correct approach to configure its network infrastructure."
+    },
+    {
         "postno": 8,
         "title": "Linux On Azure",
         "date": "2022-03-16",
