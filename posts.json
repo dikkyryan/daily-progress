@@ -1,5 +1,18 @@
 [
     {
+        "postno": 16,
+        "title": "Preparation and Overview guide for Azure trainings and certifications",
+        "date": "2022-04-02",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/02-april-2022/02-april-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " certification ",
+            " az900"
+        ],
+        "description": "Cracking the Azure. Preparation and Overview guide for Azure trainings and certifications"
+    },
+    {
         "postno": 15,
         "title": "Learn creating Angular Build Azure CI Pipeline",
         "date": "2022-02-03",
