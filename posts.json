@@ -1,5 +1,19 @@
 [
     {
+        "postno": 13,
+        "title": "Azure Kubernetes Service (AKS)",
+        "date": "2022-03-26",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/26-march-2022/26-march-2022.md",
+        "tags": [
+            "microsoft ",
+            " kubernetes ",
+            " azure ",
+            " server ",
+            " docker"
+        ],
+        "description": "Azure Kubernetes Service (AKS) is a managed Kubernetes service that lets you quickly deploy and manage clusters."
+    },
+    {
         "postno": 12,
         "title": "Azure ExpressRoute fundamentals",
         "date": "2022-03-24",
