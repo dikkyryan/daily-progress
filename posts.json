@@ -1,5 +1,17 @@
 [
     {
+        "postno": 15,
+        "title": "Learn creating Angular Build Azure CI Pipeline",
+        "date": "2022-02-03",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/02-february/03-february-2022/03-february-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " angular"
+        ],
+        "description": "If you want to create Build definition for Angular project in Azure DevOps"
+    },
+    {
         "postno": 14,
         "title": "Terraform Azure Cognitive Service",
         "date": "2022-03-29",
