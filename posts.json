@@ -1,5 +1,18 @@
 [
     {
+        "postno": 14,
+        "title": "Terraform Azure Cognitive Service",
+        "date": "2022-03-29",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/03-march/29-march-2022/29-march-2022.md",
+        "tags": [
+            "microsoft ",
+            " terraform ",
+            " azure ",
+            " cognitive"
+        ],
+        "description": "Terraform Module for deploying a Azure Cognitive Service (QNA)"
+    },
+    {
         "postno": 13,
         "title": "Azure Kubernetes Service (AKS)",
         "date": "2022-03-26",
