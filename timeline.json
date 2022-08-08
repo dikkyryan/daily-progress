@@ -1,5 +1,11 @@
 [
     {
+        "date": "2022-07-25",
+        "title": "Microsoft Certified: Azure Developer Associate",
+        "milestone": false,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2022/07-july/25-july-2022.md"
+    },
+    {
         "date": "2022-07-15",
         "title": "Microsoft Certified: DevOps Engineer Expert",
         "milestone": false,
