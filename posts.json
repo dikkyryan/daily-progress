@@ -1,13 +1,52 @@
 [
     {
+        "postno": 22,
+        "title": "Microsoft Azure Security",
+        "date": "2022-05-02",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/02-may-2022/02-may-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " security ",
+            " sentinel"
+        ],
+        "description": "The cloud has redefined how enterprises manage security, demanding more vigilance and multi-layer security implementations, whether you\u2019re dealing with born-in-the-cloud applications or migrating workloads from on-premises."
+    },
+    {
+        "postno": 21,
+        "title": "Azure Security Baseline",
+        "date": "2022-04-28",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/28-april-2022/28-april-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " baseline"
+        ],
+        "description": "The referenced script contains several errors including wrong or no CCE Ids, wrong properties, and poorly formed configuration"
+    },
+    {
+        "postno": 20,
+        "title": "KQL Advanced Hunting Queries & Analytics Rules Tweet",
+        "date": "2022-04-22",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/22-april-2022/22-april-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " firewall ",
+            " sentinel ",
+            " kql"
+        ],
+        "description": "Threat Hunting and Detection rules for Defender For Endpoint & Azure Sentinel"
+    },
+    {
         "postno": 19,
         "title": "Collection of Azure Monitor or Sentinel Kusto Queries",
         "date": "2022-04-18",
         "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/18-april-2022/18-april-2022.md",
         "tags": [
-            "microsoft", 
-            "azure", 
-            "firewall", 
+            "microsoft",
+            "azure",
+            "firewall",
             "network",
             "ninja",
             "security"
@@ -20,9 +59,9 @@
         "date": "2022-04-16",
         "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/16-april-2022/16-april-2022.md",
         "tags": [
-            "microsoft", 
-            "azure", 
-            "firewall", 
+            "microsoft",
+            "azure",
+            "firewall",
             "network",
             "ninja",
             "security"
