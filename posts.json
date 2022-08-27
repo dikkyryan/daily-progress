@@ -1,5 +1,25 @@
 [
     {
+        "postno": 19,
+        "title": "Collection of Azure Monitor or Sentinel Kusto Queries",
+        "date": "2022-04-18",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/18-april-2022/18-april-2022.md",
+        "tags": [
+            "Collection of Azure Monitor or Sentinel Kusto Queries"
+        ],
+        "description": "A collection of Azure Monitor or Sentinel Kusto Queries for your reference."
+    },
+    {
+        "postno": 18,
+        "title": "Azure Network Security Ninja",
+        "date": "2022-04-16",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/16-april-2022/16-april-2022.md",
+        "tags": [
+            "microsoft azure firewall network ninja security"
+        ],
+        "description": "The deployment templates used in this repository are modified from the original repository hosted at WAF Attack Testing Lab."
+    },
+    {
         "postno": 17,
         "title": "Rotate AZURE virtual machines local administrator Passwords using AZURE key vault",
         "date": "2022-04-12",
