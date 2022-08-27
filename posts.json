@@ -1,5 +1,31 @@
 [
     {
+        "postno": 25,
+        "title": "Azure Monitor Operations Manager",
+        "date": "2022-05-18",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/18-may-2022/18-may-2022.md",
+        "tags": [
+            "microsoft ",
+            " operations ",
+            " azure ",
+            " monitoring "
+        ],
+        "description": "This article provides guidance for customers who currently use System Center Operations Manager and are planning a transition to Azure Monitor as they migrate business applications and other resources into Azure."
+    },
+    {
+        "postno": 24,
+        "title": "Network Monitoring Overview",
+        "date": "2022-05-12",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/12-may-2022/12-may-2022.md",
+        "tags": [
+            "microsoft ",
+            " network ",
+            " monitoring ",
+            " azure"
+        ],
+        "description": "Azure offers a host of solutions to monitor your networking assets. Azure has solutions and utilities to monitor network connectivity, the health of ExpressRoute circuits, and analyze network traffic in the cloud."
+    },
+    {
         "postno": 23,
         "title": "Create a Cross-Region load balancer using Azure CLI",
         "date": "2022-05-09",
