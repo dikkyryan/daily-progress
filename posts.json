@@ -1,5 +1,54 @@
 [
     {
+        "postno": 33,
+        "title": "Firewall Dnat",
+        "date": "2022-07-07",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/07-july/07-july-2022/07-july-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " dnat ",
+            " firewall"
+        ],
+        "description": "You can configure Azure Firewall Destination Network Address Translation (DNAT) to translate and filter inbound Internet traffic to your subnets. When you configure DNAT, the NAT rule collection action is set to Dnat."
+    },
+    {
+        "postno": 32,
+        "title": "Firewall Deploy Portal Policy",
+        "date": "2022-07-02",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/07-july/02-july-2022/02-july-2022.md",
+        "tags": [
+            "microsoft ",
+            " firewall ",
+            " policy"
+        ],
+        "description": "Controlling outbound network access is an important part of an overall network security plan. For example, you may want to limit access to web sites. Or, you may want to limit the outbound IP addresses and ports that can be accessed."
+    },
+    {
+        "postno": 31,
+        "title": "Understanding Inventory Assets",
+        "date": "2022-06-24",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/06-june/24-june-2022/24-june-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " iventory"
+        ],
+        "description": "Microsoft's proprietary discovery technology recursively searches for infrastructure with observed connections to known legitimate assets (e.g. discovery \"seeds\") to make inferences about that infrastructure's relationship to the organization and uncover previously unknown and unmonitored properties."
+    },
+    {
+        "postno": 30,
+        "title": "Deploying The Defender Easm Azure Resource",
+        "date": "2022-06-17",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/06-june/17-june-2022/17-june-2022.md",
+        "tags": [
+            "microsoft ",
+            " defender ",
+            " azure"
+        ],
+        "description": "This article explains how to deploy the Microsoft Defender External Attack Surface Management (Defender EASM) Azure resource using the Azure Portal."
+    },
+    {
         "postno": 29,
         "title": "Create Policy Powershell",
         "date": "2022-06-07",
