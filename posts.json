@@ -1,5 +1,57 @@
 [
     {
+        "postno": 29,
+        "title": "Create Policy Powershell",
+        "date": "2022-06-07",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/06-june/07-june-2022/07-june-2022.md",
+        "tags": [
+            "microsoft ",
+            " policy ",
+            " azure"
+        ],
+        "description": "In this quickstart, you use Azure PowerShell to create an Azure Firewall policy with network and application rules. You also update the existing policy by adding network and application rules."
+    },
+    {
+        "postno": 28,
+        "title": "Secure Cloud Network Powershell",
+        "date": "2022-06-02",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/06-june/02-june-2022/02-june-2022.md",
+        "tags": [
+            "microsoft ",
+            " powershell ",
+            " secure ",
+            " network ",
+            " cloud"
+        ],
+        "description": "you create a Virtual WAN instance with a Virtual Hub in one region, and you deploy an Azure Firewall in the Virtual Hub to secure connectivity."
+    },
+    {
+        "postno": 27,
+        "title": "Secure Cloud Network",
+        "date": "2022-05-28",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/28-may-2022/28-may-2022.md",
+        "tags": [
+            "microsoft ",
+            " security ",
+            " network ",
+            " cloud"
+        ],
+        "description": "Using Azure Firewall Manager, you can create secured virtual hubs to secure your cloud network traffic destined to private IP addresses, Azure PaaS, and the Internet. "
+    },
+    {
+        "postno": 26,
+        "title": "Secure Hybrid Network",
+        "date": "2022-05-23",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/23-may-2022/23-may-2022.md",
+        "tags": [
+            "microsoft ",
+            " firewall ",
+            " hybrid ",
+            " network"
+        ],
+        "description": "When you connect your on-premises network to an Azure virtual network to create a hybrid network, the ability to control access to your Azure network resources is an important part of an overall security plan."
+    },
+    {
         "postno": 25,
         "title": "Azure Monitor Operations Manager",
         "date": "2022-05-18",
