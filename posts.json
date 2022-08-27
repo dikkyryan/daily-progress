@@ -1,5 +1,20 @@
 [
     {
+        "postno": 23,
+        "title": "Create a Cross-Region load balancer using Azure CLI",
+        "date": "2022-05-09",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/09-may-2022/09-may-2022.md",
+        "tags": [
+            "microsoft ",
+            " security ",
+            " azure ",
+            " loadbalancer ",
+            " administrator ",
+            " cli"
+        ],
+        "description": "A cross-region load balancer ensures a service is available globally across multiple Azure regions. If one region fails, the traffic is routed to the next closest healthy regional load balancer."
+    },
+    {
         "postno": 22,
         "title": "Microsoft Azure Security",
         "date": "2022-05-02",
