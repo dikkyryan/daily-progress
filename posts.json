@@ -1,5 +1,18 @@
 [
     {
+        "postno": 17,
+        "title": "Rotate AZURE virtual machines local administrator Passwords using AZURE key vault",
+        "date": "2022-04-12",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/04-april/12-april-2022/12-april-2022.md",
+        "tags": [
+            "microsoft",
+            " azure",
+            " firewall",
+            " administrator"
+        ],
+        "description": "This Action will connect to a provided AZURE key vault as input and will loop through each secret key (server name)."
+    },
+    {
         "postno": 16,
         "title": "Preparation and Overview guide for Azure trainings and certifications",
         "date": "2022-04-02",
