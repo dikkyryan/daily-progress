@@ -1,5 +1,32 @@
 [
     {
+        "postno": 35,
+        "title": "Using and Managing discovery",
+        "date": "2022-07-26",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/07-july/26-july-2022/26-july-2022.md",
+        "tags": [
+            "microsoft ",
+            " security ",
+            " defender ",
+            " managing"
+        ],
+        "description": "Microsoft Defender External Attack Surface Management (Defender EASM) relies on our proprietary discovery technology to continuously define your organization\u2019s unique Internet-exposed attack surface. Discovery scans the internet for assets owned by your organization to uncover previously unknown and unmonitored properties. Discovered assets are indexed in a customer\u2019s inventory, providing a dynamic system of record of web applications, third party dependencies, and web infrastructure under the organization\u2019s management through a single pane of glass."
+    },
+    {
+        "postno": 34,
+        "title": "Deploy the Defender EASM Azure resource",
+        "date": "2022-07-17",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/07-july/17-july-2022/17-july-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " deploy ",
+            " easm ",
+            " defender"
+        ],
+        "description": "This article explains how to deploy the Microsoft Defender External Attack Surface Management (Defender EASM) Azure resource using the Azure Portal."
+    },
+    {
         "postno": 33,
         "title": "Firewall Dnat",
         "date": "2022-07-07",
