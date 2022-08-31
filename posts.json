@@ -1,5 +1,17 @@
 [
     {
+        "postno": 36,
+        "title": "How Azure Firewall Work ",
+        "date": "2022-01-12",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/01-january/12-january-2022/12-january-2022.md",
+        "tags": [
+            "microsoft ",
+            " azure ",
+            " firewall"
+        ],
+        "description": "how to"
+    },
+    {
         "postno": 35,
         "title": "Using and Managing discovery",
         "date": "2022-07-26",
