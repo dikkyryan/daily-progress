@@ -1,5 +1,17 @@
 [
     {
+        "postno": 37,
+        "title": "A cloud-native database developed by Alibaba Cloud",
+        "date": "2021-01-04",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/01-january/04-january-2021/04-january-2021.md",
+        "tags": [
+            "alibaba ",
+            " alibaba cloud ",
+            " database"
+        ],
+        "description": "PolarDB for PostgreSQL (hereafter simplified as PolarDB) is a cloud native database service independently developed by Alibaba Cloud. This service is 100% compatible with PostgreSQL and uses a shared-storage-based architecture in which computing is decoupled from storage. This service features flexible scalability, millisecond-level latency and hybrid transactional/analytical processing (HTAP) capabilities."
+    },
+    {
         "postno": 36,
         "title": "How Azure Firewall Work ",
         "date": "2022-01-12",
