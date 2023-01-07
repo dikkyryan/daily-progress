@@ -1,5 +1,11 @@
 [
     {
+        "date": "2022-12-06",
+        "title": "Microsoft Certified: Azure Solutions Architect Expert",
+        "milestone": true,
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/cron@daily/2022/12-december/06-december-2022.md"
+    },
+    {
         "date": "2022-08-03",
         "title": "CompTia Linux+ Certified",
         "milestone": false,

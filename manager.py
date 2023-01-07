@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 from genericpath import isfile
 import os
 import json
@@ -235,8 +235,6 @@ def main():
     else:
         print("[-] Please enter valid selection.")
         main()
-
-
 
 
 if __name__ == "__main__":
