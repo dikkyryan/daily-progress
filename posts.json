@@ -1,5 +1,19 @@
 [
     {
+        "postno": 48,
+        "title": "Alibaba Cloud RAM API examples using Python",
+        "date": "2021-12-11",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/12-december/11-december-2021/11-december-2021.md",
+        "tags": [
+            "alibaba ",
+            " alibaba cloud ",
+            " ram ",
+            " api ",
+            " python"
+        ],
+        "description": "Currently there is no easy way to create RAM users in bulk instead it can only be done by leveraging RAM API's. But we don't have any examples and working code to showcase that and this python tool helps in leveraging RAM API's for the common use cases so that others can reuse the code to perform RAM operations in bulk for the new or existing customers."
+    },
+    {
         "postno": 47,
         "title": "Cloud Native WordPress on Alibaba Cloud",
         "date": "2021-10-12",
