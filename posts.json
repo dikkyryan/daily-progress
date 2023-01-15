@@ -1,5 +1,31 @@
 [
     {
+        "postno": 50,
+        "title": "Alibaba Dragonwell JDK",
+        "date": "2021-12-29",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/12-december/29-december-2021/29-december-2021.md",
+        "tags": [
+            "alibaba ",
+            " alibaba cloud ",
+            " jdk ",
+            " dragonwell"
+        ],
+        "description": "Over the years, Java has proliferated in Alibaba. Many applications are written in Java and many our Java developers have written more than one billion lines of Java code."
+    },
+    {
+        "postno": 49,
+        "title": "Alicloud PHP DNS Updater",
+        "date": "2021-12-25",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2021/12-december/25-december-2021/25-december-2021.md",
+        "tags": [
+            "alibaba ",
+            " alibaba cloud ",
+            " dns ",
+            " php"
+        ],
+        "description": "PHP DNS auto-updater for Alicloud/Aliyun/Alidns. The script uses the Alicloud API to update a domains DNS. This script can be automated in a cron job to easily keep up to date the target IP in a given domain."
+    },
+    {
         "postno": 48,
         "title": "Alibaba Cloud RAM API examples using Python",
         "date": "2021-12-11",
