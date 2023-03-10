@@ -1,5 +1,58 @@
 [
     {
+        "postno": 55,
+        "title": "Alibaba CLoud CLI Installation",
+        "date": "2022-07-23",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/07-july/23-july-2022/23-july-2022.md",
+        "tags": [
+            "alibaba ",
+            " cloud ",
+            " CLI ",
+            " install"
+        ],
+        "description": "Cloud CLI (Command Line Interface) Tools are them direct and simple way to interact with a new Cloud platform, It is the perfect tool for executing simple and repeatable tasks which you don\u2019t need to keep track of. Alibaba Cloud CLI tool which also manages Cloud resources (or stacks) is no exception. In this blog post, we will install AliCloud CLI and try a few API requests."
+    },
+    {
+        "postno": 54,
+        "title": "Deploying FortiGate-VM HA on Alibaba Cloud between availability zones",
+        "date": "2022-06-09",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/06-june/09-june-2022/09-june-2022.md",
+        "tags": [
+            "alibaba ",
+            " cloud ",
+            " fortigate ",
+            " zones"
+        ],
+        "description": "This guide provides sample manual configuration of active-passive FortiGate-VM HA on AliCloud between availability zones (AZ)s in a single region."
+    },
+    {
+        "postno": 53,
+        "title": "Alibaba ECS Configuration SSH",
+        "date": "2022-05-21",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/05-may/21-may-2022/21-may-2022.md",
+        "tags": [
+            "alibaba ",
+            " cloud ",
+            " ecs ",
+            " ssh ",
+            " config"
+        ],
+        "description": "Cloud servers uses LINUX server system for best performance. It does not have a GUI for easy usage and requires command line to browse and modify files. One of the most common procedure is to connect to the cloud instance using SSH connection, it requires key pairing for security purpose, since every IPs by default are allowed to connect to the instance. Although we can use the web console, it is slow and non-responsive compare to client app."
+    },
+    {
+        "postno": 52,
+        "title": "An SDK builder for RESTful API of Aliyun OSS / Alibaba Cloud OSS.",
+        "date": "2022-02-18",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/02-february/18-february-2022/18-february-2022.md",
+        "tags": [
+            "alibaba ",
+            " alibaba cloud ",
+            " oss ",
+            " sdk"
+        ],
+        "description": "An SDK builder for RESTful API of Aliyun OSS / Alibaba Cloud OSS."
+    },
+    {
         "postno": 51,
         "title": "Alibaba Dragonwell Build",
         "date": "2022-01-09",
