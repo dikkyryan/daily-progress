@@ -1,5 +1,30 @@
 [
     {
+        "postno": 57,
+        "title": "Discover the benefits of Alibaba Object Storage Service",
+        "date": "2022-09-11",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/09-september/11-september-2022/11-september-2022.md",
+        "tags": [
+            "alibaba ",
+            " cloud ",
+            " oss"
+        ],
+        "description": "Choosing the right infrastructure solution is more critical than ever, with on-premises, private, and public cloud options available. With data doubling yearly and budgets remaining flat, making more informed decisions about your cloud strategy is critical to saving money and extracting more value from your data to stay competitive."
+    },
+    {
+        "postno": 56,
+        "title": "Create Alibaba storage buckets from the cloud shell using ossutil",
+        "date": "2022-07-24",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2022/07-july/24-july-2022/24-july-2022.md",
+        "tags": [
+            "alibaba ",
+            " shell ",
+            " cloud ",
+            " ossutil"
+        ],
+        "description": "The Alibaba Cloud Shell is a management tool built on Alibaba Cloud\u2019s open APIs. Users can utilize this tool to control their Alibaba Cloud services by calling open APIs provided by Alibaba Cloud. To expand the functionality, users can attach the Cloud Shell to Alibaba Cloud\u2019s built-in APIs."
+    },
+    {
         "postno": 55,
         "title": "Alibaba CLoud CLI Installation",
         "date": "2022-07-23",
