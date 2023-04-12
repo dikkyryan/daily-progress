@@ -1,99 +1,11 @@
-# Alibaba Cloud Compliance Mod for Steampipe
+**Alibaba Cloud Compliance Mod for Steampipe** is a tool that helps organizations ensure compliance with various security and regulatory standards when using Alibaba Cloud. Steampipe is an open-source tool for querying cloud infrastructure, and the Alibaba Cloud Compliance Mod extends its capabilities to include compliance checks.
 
-50+ checks covering industry defined security best practices across all Alibaba Cloud regions.
+The Compliance Mod provides a set of pre-built queries that evaluate Alibaba Cloud resources against common compliance frameworks, including the Center for Internet Security (CIS) benchmarks, the Payment Card Industry Data Security Standard (PCI DSS), and the Health Insurance Portability and Accountability Act (HIPAA).
 
-Run checks in a dashboard:
-![image](https://raw.githubusercontent.com/turbot/steampipe-mod-alicloud-compliance/main/docs/alicloud_cis_v100_dashboard.png)
+These queries can be run in the Steampipe command-line interface (CLI), providing organizations with a simple and efficient way to assess their compliance posture and identify potential security issues.
 
-Or in a terminal:
-![image](https://raw.githubusercontent.com/turbot/steampipe-mod-alicloud-compliance/main/docs/alicloud_cis_v100_console.png)
+The Alibaba Cloud Compliance Mod also supports custom queries, allowing organizations to define their own compliance checks based on their specific requirements. This feature enables organizations to tailor their compliance checks to their unique security and regulatory needs.
 
-Includes support for:
-* [Alibaba Cloud CIS v1.0.0](https://hub.steampipe.io/mods/turbot/alicloud_compliance/controls/benchmark.cis_v100)
+One of the key benefits of using the Alibaba Cloud Compliance Mod is that it provides a single source of truth for compliance data. The Mod's queries provide clear and actionable results, allowing organizations to quickly identify areas of non-compliance and take corrective action. This can help reduce the risk of security breaches and non-compliance penalties.
 
-## Getting started
-
-### Installation
-
-Download and install Steampipe (https://steampipe.io/downloads). Or use Brew:
-
-```sh
-brew tap turbot/tap
-brew install steampipe
-```
-
-Install the Alibaba Cloud plugin with [Steampipe](https://steampipe.io):
-
-```sh
-steampipe plugin install alicloud
-```
-
-Clone:
-
-```sh
-git clone https://github.com/turbot/steampipe-mod-alicloud-compliance.git
-cd steampipe-mod-alicloud-compliance
-```
-
-### Usage
-
-Before running any benchmarks, it's recommended to generate your AliCloud credential report:
-
-```sh
-aliyun ims GenerateCredentialReport --endpoint ims.aliyuncs.com
-```
-
-Start your dashboard server to get started:
-
-```sh
-steampipe dashboard
-```
-
-By default, the dashboard interface will then be launched in a new browser
-window at https://localhost:9194. From here, you can run benchmarks by
-selecting one or searching for a specific one.
-
-Instead of running benchmarks in a dashboard, you can also run them within your
-terminal with the `steampipe check` command:
-
-Run all benchmarks:
-
-```sh
-steampipe check all
-```
-
-Run a single benchmark:
-
-```sh
-steampipe check benchmark.cis_v100
-```
-
-Run a specific control:
-
-```sh
-steampipe check control.cis_v100_2_1
-```
-
-Different output formats are also available, for more information please see
-[Output Formats](https://steampipe.io/docs/reference/cli/check#output-formats).
-
-### Credentials
-
-This mod uses the credentials configured in the [Steampipe AliCloud plugin](https://hub.steampipe.io/plugins/turbot/alicloud).
-
-### Configuration
-
-No extra configuration is required.
-
-## Contributing
-
-If you have an idea for additional compliance controls, or just want to help maintain and extend this mod ([or others](https://github.com/topics/steampipe-mod)) we would love you to join the community and start contributing.
-
-- **[Join our Slack community →](https://steampipe.io/community/join)** and hang out with other Mod developers.
-
-Please see the [contribution guidelines](https://github.com/turbot/steampipe/blob/main/CONTRIBUTING.md) and our [code of conduct](https://github.com/turbot/steampipe/blob/main/CODE_OF_CONDUCT.md). All contributions are subject to the [Apache 2.0 open source license](https://github.com/turbot/steampipe-mod-alicloud-compliance/blob/main/LICENSE).
-
-Want to help but not sure where to start? Pick up one of the `help wanted` issues:
-
-- [Steampipe](https://github.com/turbot/steampipe/labels/help%20wanted)
-- [Alibaba Cloud Compliance Mod](https://github.com/turbot/steampipe-mod-alicloud-compliance/labels/help%20wanted)
+Overall, the Alibaba Cloud Compliance Mod for Steampipe is a valuable tool for organizations that need to ensure compliance with security and regulatory standards when using Alibaba Cloud. Its pre-built and customizable queries, combined with the efficiency of Steampipe, make it an ideal choice for organizations looking to enhance their cloud infrastructure security and compliance posture.
