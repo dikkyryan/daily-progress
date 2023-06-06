@@ -1,79 +1,43 @@
-If you want to create Build definition for Angular project in Azure DevOps, then
-this article is for you. Login to
-<a href="https://dev.azure.com/" class="crayons-link">Dev Azure</a> and go to
-the pipelines and follow the instructions below:
 
-- Click on new pipeline ![](https://i.imgur.com/lL89yiV.png)
+To create an Azure CI/CD pipeline for building and deploying an Angular application, you can follow these steps:
 
-- Use classic editor ![](https://i.imgur.com/8wKAv3h.png)
+Step 1: Set up your Azure DevOps Project
 
-- Connect to repo ![](https://i.imgur.com/q5iSJZO.png)
+1.  Sign in to the Azure DevOps portal (dev.azure.com) using your Azure account.
+2.  Create a new project or select an existing project.
 
-- Tag your repository on success ![](https://i.imgur.com/bS4MlDc.png)
+Step 2: Configure the Build Pipeline
 
-- Install npm packages ![](https://i.imgur.com/qmxh1BG.png)
+1.  Navigate to the Pipelines section in your Azure DevOps project.
+2.  Click on the "New Pipeline" button to create a new pipeline.
+3.  Choose the repository where your Angular application code is hosted (e.g., Azure Repos, GitHub, Bitbucket).
+4.  Select the branch that you want to build.
+5.  Choose the template for your pipeline. You can search for "Angular" or "Node.js" templates.
+6.  Select the template that best suits your needs (e.g., "Node.js with Angular").
+7.  Review and update the pipeline configuration as required, such as specifying the version of Node.js and Angular to use.
+8.  Save and run the pipeline to ensure it builds successfully.
 
-- Build angular project ![](https://i.imgur.com/AYjqRfy.png)
+Step 3: Configure Azure Pipeline Variables
 
-- Copy Files to staging directory ![](https://i.imgur.com/ZccWGkS.png)
+1.  Define any necessary pipeline variables. For example, you might need to specify the Azure subscription and resource group where your application will be deployed.
+2.  Go to the pipeline settings and navigate to the "Variables" tab.
+3.  Add the required variables and their values. These variables will be used in subsequent pipeline tasks.
 
-- Archive Files ![](https://i.imgur.com/kVK0idi.png)
+Step 4: Add Deployment Steps
 
-- Publish artifacts to Drop folder ![](https://i.imgur.com/wyaK8G1.png)
+1.  After the build step, you can add deployment tasks to deploy the Angular application to Azure.
+2.  Add an Azure App Service Deployment task to deploy the built application to an Azure Web App.
+3.  Configure the deployment task with the appropriate settings, such as the Azure subscription, resource group, and web app name.
 
----
+Step 5: Save and Run the Pipeline
 
-```yaml
-pool:
-  name: Azure Pipelines
-  demands: npm
+1.  Save your pipeline configuration.
+2.  Trigger a manual or automated build to test the pipeline.
+3.  Monitor the pipeline execution and ensure that the build and deployment steps complete successfully.
 
-steps:
-  - task: Npm@1
-    displayName: 'npm install'
-    inputs:
-      verbose: false
+Step 6: Test and Verify the Deployed Application
 
-  - task: Npm@1
-    displayName: 'npm build'
-    inputs:
-      command: custom
-      verbose: false
-      customCommand: 'run build:apps'
+1.  Once the pipeline has successfully completed, navigate to your Azure Web App to verify that the Angular application is deployed correctly.
+2.  Test the deployed application to ensure it functions as expected.
 
-  - task: CopyFiles@2
-    displayName: 'Copy Files to: $(Build.ArtifactStagingDirectory)'
-    inputs:
-      SourceFolder: '$(Build.SourcesDirectory)/dist'
-      TargetFolder: '$(Build.ArtifactStagingDirectory)'
-
-  - task: ArchiveFiles@2
-    displayName: 'Archive $(Build.ArtifactStagingDirectory)'
-    inputs:
-      rootFolderOrFile: '$(Build.ArtifactStagingDirectory)'
-      includeRootFolder: false
-
-  - task: PublishBuildArtifacts@1
-    displayName: 'Publish Artifact: drop'
-```
-
-## Running Angular Build on Azure Devops
-
-Once you run angular build on azure devops. Then you will see it will create a
-job and execute all task mentioned in build definition.
-![](https://i.imgur.com/F2mvHHa.png)
-
-## Where Drop folder goes?
-
-Final archived folder will go at
-`$(System.DefaultWorkingDirectory)/$(Build.BuildId)` location.
-
-Drop folder will have buildid.zip file inside that you will have both `apps` and
-`libs` folders.
-
-![](https://i.imgur.com/fk6r96i.png)
-
-## What drop folder has?
-
-Drop folder has both `apps` and `libs` folders.
-![](https://i.imgur.com/OdEd027.png)
+By following these steps, you can create an Azure CI/CD pipeline for building and deploying your Angular application. Remember to adapt the pipeline to your specific requirements, such as configuring additional build steps, running tests, or incorporating other deployment targets.
