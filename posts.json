@@ -1,5 +1,29 @@
 [
     {
+        "postno": 59,
+        "title": "Bagaimana cara membuat Elastic Compute Service (ECS) di Alibaba Cloud",
+        "date": "2023-12-16",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2023/12-december/16-december-2023/16-december-2023.md",
+        "tags": [
+            "alibaba ",
+            " cloud ",
+            " ecs "
+        ],
+        "description": "Alibaba Cloud Elastic Compute Service (ECS) adalah layanan komputasi awan yang disediakan oleh Alibaba Cloud."
+    },
+    {
+        "postno": 58,
+        "title": "Bagaimana cara mengkonfigurasi Nama Domain Pengirim pada Alibaba Cloud Direct Mail",
+        "date": "2023-12-15",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2023/12-december/15-december-2023/15-december-2023.md",
+        "tags": [
+            "alibaba cloud",
+            " mail",
+            " cloud"
+        ],
+        "description": "Direct Mail adalah layanan yang sederhana dan efisien untuk mengirimkan pemberitahuan email dan email massal dengan cepat dan efisien tanpa perlu membangun server email sendiri. "
+    },
+    {
         "postno": 57,
         "title": "Discover the benefits of Alibaba Object Storage Service",
         "date": "2022-09-11",
