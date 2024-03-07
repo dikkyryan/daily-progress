@@ -7,23 +7,23 @@ Berikut cara membuat ECS di Alibaba Cloud:
 
 2. Setelah mendaftar akun Alibaba Cloud , langsung menunju ke ECS Console dan pilih menu Elastic Compute Service
 
-![](https://drive.google.com/file/d/1RYGV0zU-rDHXJpWRmecLI_0hBeRKWATi/view?usp=sharing)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs0.png?raw=true)
 
-![](https://drive.google.com/file/d/1QtrioilIh4afQb5SrgxZnMrWjVfB3ZJ0/view?usp=drive_link)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs1.png?raw=true)
 
 3. Selanjutnya melakukan penyesuaian konfigurasi yang diinginkan. pada tahap ini bisa menyesuaikan kebutuhan user seperti Biling Method, Region, Instance Type, Image, Storage dan Bandwidth.
 
-![](https://drive.google.com/file/d/1_q5oLzu3VBmKTIf4I_C4JM4RtSxpxtb-/view?usp=drive_link)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs2.png?raw=true)
 
-![](https://drive.google.com/file/d/1PF4822TUrNzcqJRyqjZUF_Od53h-5zhw/view?usp=drive_link)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs3.png?raw=true)
 
-![](https://drive.google.com/file/d/1UeYoOIBo1neW5l0thksA6LO25f58mJjg/view?usp=drive_link)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs4.png?raw=true)
 
 4. Jika seluruh konfigurasi telah selesai, maka pengguna harus menekan tombol ECS Terms of Service, lalu Create Order dengan tujuan untuk membuat order.
 
-![](https://drive.google.com/file/d/126cy-1eOzdw-8_Sio6Fzdn_f91Zicmqj/view?usp=drive_link)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs5.png?raw=true)
 
-![](https://drive.google.com/file/d/1RYGV0zU-rDHXJpWRmecLI_0hBeRKWATi/view?usp=drive_link)
+![](https://github.com/dikkyryan/daily-progress/blob/main/posts/2023/12-december/16-december-2023/ecs6.png?raw=true)
 
 5. Setelah order berhasil dibuat maka tahap selanjutnya pengguna melakukan pembayaran.
 
