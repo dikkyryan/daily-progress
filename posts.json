@@ -1,5 +1,18 @@
 [
     {
+        "postno": 60,
+        "title": "Bagaimana cara  membuat dan mengkonfigurasi Alibaba Cloud VPN Gateway",
+        "date": "2023-12-19",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2023/12-december/19-december-2023/19-december-2023.md",
+        "tags": [
+            "alibaba ",
+            " gateway ",
+            " vpn ",
+            " ecs"
+        ],
+        "description": "Tutorial ini memberikan informasi tentang bagaimana cara menghubungkan infrastruktur Alibaba Cloud ke WAAN melalui IPSec."
+    },
+    {
         "postno": 59,
         "title": "Bagaimana cara membuat Elastic Compute Service (ECS) di Alibaba Cloud",
         "date": "2023-12-16",
