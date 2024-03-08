@@ -1,5 +1,18 @@
 [
     {
+        "postno": 61,
+        "title": "Bagaimana cara membuat EIP (Elastic IP) di Alibaba Cloud ??",
+        "date": "2024-03-07",
+        "url": "https://raw.githubusercontent.com/dikkyryan/daily-progress/main/posts/2024/03-march/07-march-2024/07-march-2024.md",
+        "tags": [
+            "alibaba ",
+            " cloud ",
+            " elastic ",
+            " ipaddress"
+        ],
+        "description": "EIP adalah alamat IP statis yang dapat diakses melalui Internet. Anda dapat mengaitkan EIP ke sumber daya cloud Anda untuk memungkinkan komunikasi dengan Internet. Anda dapat dengan mudah melepaskan EIP dari sumber daya cloud dan mengaitkannya ke sumber daya cloud lain."
+    },
+    {
         "postno": 60,
         "title": "Bagaimana cara  membuat dan mengkonfigurasi Alibaba Cloud VPN Gateway",
         "date": "2023-12-19",
